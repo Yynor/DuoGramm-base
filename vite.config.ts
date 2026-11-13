@@ -69,10 +69,10 @@ if(isDEV) {
 
 const handlebarsPlugin = handlebars({
   context: {
-    title: 'Telegram Web',
-    description: 'Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.',
-    url: 'https://web.telegram.org/k/',
-    origin: 'https://web.telegram.org/'
+    title: 'DuoGramm',
+    description: 'DuoGramm — an independent web client based on Telegram Web K.',
+    url: 'https://duogramm.example/',
+    origin: 'https://duogramm.example/'
   }
 });
 

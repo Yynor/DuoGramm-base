@@ -1,7 +1,7 @@
 {
-  "name": "tweb",
+  "name": "duogramm",
   "version": "1.0.0",
-  "description": "",
+  "description": "DuoGramm — an independent Telegram Web K based client",
   "main": "index.js",
   "scripts": {
     "preinstall": "npx only-allow pnpm",
